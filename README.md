@@ -8,3 +8,5 @@ Step 3 : Save the code with tictactoe.py.
 Step 4 : Open the folder in terminal and write the command.  
          python tictactoe.py 
   
+# Requirements:
+Latest Python 3 version
